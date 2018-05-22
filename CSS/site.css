@@ -38,3 +38,11 @@ nav ul li{
 nav ul li a{
     display: block;
 }
+
+#navBar ul{
+    list-style: none;
+}
+
+#navBar li{
+    display: inline;
+}
